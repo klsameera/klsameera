@@ -24,6 +24,6 @@ You can reach me through the following channels:
 
 - GitHub: [@klsameera](https://github.com/klsameera)
 - LinkedIn: [Sameera](https://www.linkedin.com/in/sameera-pathmakumara-b02302154/)
-- Email: [sameerakl99@gmail.com](mailto:klsameerapathmakumara@gmail.com)
+- Email: [klsameerapathmakumara@gmail.com](mailto:klsameerapathmakumara@gmail.com)
 
 I look forward to connecting with you and discussing potential collaborations or answering any questions you may have.
