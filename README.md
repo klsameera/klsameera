@@ -25,6 +25,6 @@ You can reach me through the following channels:
 - GitHub: [@klsameera](https://github.com/klsameera)
 - LinkedIn: [Sameera](https://www.linkedin.com/in/sameera-pathmakumara-b02302154/)
 - Email: [klsameerapathmakumara@gmail.com](mailto:klsameerapathmakumara@gmail.com)
-- Upwork: https://www.upwork.com/fl/~01d7d8b4a9385cdb83?mp_source=share
+- Upwork: [@Sameera](https://www.upwork.com/fl/~01d7d8b4a9385cdb83?mp_source=share)
 
 I look forward to connecting with you and discussing potential collaborations or answering any questions you may have.
