@@ -1,6 +1,6 @@
 # Hi, I'm Sameera 👋
 
-I am a Full-Stack Developer specializing in Laravel, with experience in PHP development for over 5 years. My passion lies in programming, and I have worked on a wide range of projects, including social networks, payment gateways, fleet management ERPs, and e-commerce platforms. I strive to create robust and scalable web applications that meet the needs of real-world users.
+I am a Full-Stack Developer specializing in Laravel, with experience in PHP development for over 7 years. My passion lies in programming, and I have worked on a wide range of projects, including social networks, payment gateways, fleet management ERPs, and e-commerce platforms. I strive to create robust and scalable web applications that meet the needs of real-world users.
 
 ## 💼 Professional Experience
 
